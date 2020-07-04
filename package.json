@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Helia007/LastProject/issues"
   },
-  "homepage": "https://github.com/Helia007/LastProject#readme"
+  "homepage": "https://github.com/Helia007/LastProject#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
 }
